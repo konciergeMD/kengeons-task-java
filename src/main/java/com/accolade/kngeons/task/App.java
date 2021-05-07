@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class App 
 {
-    public static Integer solution(List<Integer> A) {
+    public static Integer solution(final List<Integer> A) {
         return 0;
     }
 }

@@ -2,7 +2,7 @@
 
 Write a function:
 
-```def solution(A)```
+```public static Integer solution(final List<Integer> A)```
 
 that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A.
 
